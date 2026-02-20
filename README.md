@@ -1,7 +1,9 @@
 # Spring26-CSCE679-Assignment-1
+![result](D:\File\TAMU\Spring26\VIZA676\Assignments\Spring26-CSCE679-Assignment-1\result.png)
+
 ## Submission
 
-This assignment is written with D3.js in Observable. Here is the link to the Observable Notebook: https://observablehq.com/d/3b77d4cf58cbc5b7.
+This assignment is written with D3.js in Observable. A result screenshot is attached above to demonstrate the final output of the implementation. To check the full implementation, here is the link to the Observable Notebook: https://observablehq.com/d/3b77d4cf58cbc5b7.
 
 ## AI Usage
 
