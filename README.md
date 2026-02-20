@@ -1,5 +1,5 @@
 # Spring26-CSCE679-Assignment-1
-![result](D:\File\TAMU\Spring26\VIZA676\Assignments\Spring26-CSCE679-Assignment-1\result.png)
+![result](./result.png)
 
 ## Submission
 
